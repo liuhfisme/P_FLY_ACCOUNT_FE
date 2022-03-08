@@ -62,7 +62,9 @@ export default {
     clipboard: 'Clipboard',
     i18n: 'I18n',
     externalLink: 'External Link',
-    profile: 'Profile'
+    profile: 'Profile',
+    user: 'User Manage',
+    userList: 'User List'
   },
   navbar: {
     logOut: 'Log Out',
